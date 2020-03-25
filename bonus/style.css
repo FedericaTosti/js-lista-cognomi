@@ -1,0 +1,23 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.stampa{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100vw;
+  height: 100vh;
+}
+
+h1{
+  width: 800px;
+  text-align: center;
+  font-size: 20px;
+}
+
+span{
+  color: blue;
+}
